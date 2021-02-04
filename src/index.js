@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Modulo1 } from './app.js'
-import './app.css'
+import { Modulo1 } from './App.js'
+import './App.css'
 // import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 
